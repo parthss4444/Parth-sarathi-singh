@@ -39,3 +39,9 @@ printf("%d ", A[row][col]);
 printf("\n");
 }
 }
+else
+{
+printf("Not Identity Matrix");
+}
+return 0;
+}
